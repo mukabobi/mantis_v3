@@ -35,11 +35,6 @@
             "selector": "td",
             "control": "property.innerText",
             "selectIndex": 7
-          },
-          "goToDetails": {
-            "type": "action",
-            "selector": "td a[href=\"/mantisbt/view.php?id=\"]",
-            "control": "action.link"
           }
         }
       }
