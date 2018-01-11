@@ -8,7 +8,7 @@
     },
     "issuesList": {
       "type": "array",
-      "selectorAll": "#buglist tbody tr",
+      "selectorAll": "#buglist tbody",
       "items": {
         "type": "object",
         "properties": {
