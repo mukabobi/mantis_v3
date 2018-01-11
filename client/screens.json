@@ -34,13 +34,6 @@
       "sourceScreenId": "app.listview.listviewcool",
       "sourceAppId": "universaltemplates",
       "model": "assignedtome"
-    },
-    {
-      "id": "issuedetails",
-      "name": "issueDetails",
-      "sourceScreenId": "app.messagesinbox.messagesconfident",
-      "sourceAppId": "universaltemplates",
-      "model": "issuedatails"
     }
   ],
   "sourceAppId": "_blank",
