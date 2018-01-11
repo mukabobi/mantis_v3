@@ -10,6 +10,11 @@
       "type": "string",
       "control": "text",
       "selector": "input[name=\"username\"]"
+    },
+    "password": {
+      "type": "string",
+      "selector": "input[name=\"password\"]",
+      "control": "text"
     }
   },
   "connect": []
