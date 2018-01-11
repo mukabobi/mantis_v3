@@ -5,17 +5,6 @@
       "type": "identifier",
       "selector": ".floatleft",
       "control": "exists"
-    },
-    "id": {
-      "type": "string",
-      "selector": "td",
-      "control": "property.innerText",
-      "selectIndex": 4
-    },
-    "category": {
-      "type": "string",
-      "selector": ".floatleft",
-      "control": "exists"
     }
   },
   "connect": []
