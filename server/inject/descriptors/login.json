@@ -23,7 +23,8 @@
     },
     "loginclick": {
       "type": "action",
-      "control": "property.innerText"
+      "control": "action.button",
+      "selector": "button"
     }
   },
   "connect": []
