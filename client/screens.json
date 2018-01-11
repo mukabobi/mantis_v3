@@ -40,7 +40,7 @@
       "name": "issueDetails",
       "sourceScreenId": "app.messagesinbox.messagesconfident",
       "sourceAppId": "universaltemplates",
-      "model": "issuedetails"
+      "model": "assignedtome"
     }
   ],
   "sourceAppId": "_blank",
