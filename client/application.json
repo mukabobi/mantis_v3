@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "7ae39373",
   "uiCommonVersion": "5.2.10",
-  "creatorId": "viecsehn"
+  "creatorId": "viecsehn",
+  "id": "mantis_v3",
+  "previewImageURL": "/previews/7ae39373-mantis_v3/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/mukabobi/mantis_v3",
+  "creatorName": "Christian Sehn",
+  "sdks": []
 }
