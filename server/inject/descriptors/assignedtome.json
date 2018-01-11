@@ -14,7 +14,7 @@
         "properties": {
           "id": {
             "type": "string",
-            "selector": "tbody td",
+            "selector": "td",
             "control": "property.innerText",
             "selectIndex": 3
           }
