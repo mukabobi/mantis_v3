@@ -47,10 +47,10 @@
   },
   "connect": [
     {
-      "match": [],
-      "screens": [
-        "issuedetails"
-      ]
+      "match": [
+        "isAssignedtome"
+      ],
+      "action": "issuesList.goToDetails"
     }
   ]
 }
