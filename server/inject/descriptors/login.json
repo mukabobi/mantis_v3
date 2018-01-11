@@ -23,7 +23,6 @@
     },
     "loginclick": {
       "type": "action",
-      "selector": "font",
       "control": "property.innerText"
     }
   },
