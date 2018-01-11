@@ -1,5 +1,11 @@
 {
   "type": "object",
-  "properties": {},
+  "properties": {
+    "isLogin": {
+      "type": "identifier",
+      "selector": "body",
+      "control": "exists"
+    }
+  },
   "connect": []
 }
