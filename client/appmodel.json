@@ -92,6 +92,12 @@
               "update": {
                 "type": "none"
               }
+            },
+            "severity": {
+              "type": "string",
+              "update": {
+                "type": "none"
+              }
             }
           }
         },

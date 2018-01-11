@@ -11,22 +11,19 @@
     <ion-content data-comp-id="ionic-content.1">
         <ion-list data-comp-id="ionic-list.1">
             <div class="item item-icon-right" data-comp-id="item.1"
-                ng-click="app.action('listview', 'data.listItems[item].action', this)"
-                ng-repeat="item in data.issuesList"
-                style="border-top: 1px solid rgba(255, 255, 255, 0);">
+                ng-repeat="item in data.issuesList">
                 <div class="row" data-comp-id="row.1">
                     <div class="col" data-comp-id="column.1">
-                        <div data-comp-id="text.1" ng-bind="item.id">Some text</div>
+                        <div class=" energized" data-comp-id="text.1" ng-bind="item.id">Some text</div>
                     </div>
-                </div>
-                <div class="row" data-comp-id="row.2">
                     <div class="col" data-comp-id="column.2">
-                        <div data-comp-id="text.2" ng-bind="item.category">Some text</div>
+                        <div class=" energized" data-comp-id="text.2" ng-bind="item.category">Some text</div>
                     </div>
                     <div class="col" data-comp-id="column.3">
-                        <div data-comp-id="text.3" ng-bind="item.status">Some text</div>
+                        <div data-comp-id="text.4" ng-bind="item.severity">Some text</div>
                     </div>
                 </div>
+                <div data-comp-id="text.3" ng-bind="item.status">Some text</div>
             </div>
         </ion-list>
     </ion-content>
