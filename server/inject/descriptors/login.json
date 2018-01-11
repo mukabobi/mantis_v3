@@ -27,5 +27,14 @@
       "selector": ".button"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isLogin"
+      ],
+      "screens": [
+        "login"
+      ]
+    }
+  ]
 }
