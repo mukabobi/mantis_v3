@@ -29,8 +29,8 @@
       "model": "login"
     },
     {
-      "id": "assignedtome",
-      "name": "assignedtome",
+      "id": "viewlist",
+      "name": "viewlist",
       "sourceScreenId": "app.listview.listviewcool",
       "sourceAppId": "universaltemplates",
       "model": "assignedtome"
