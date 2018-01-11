@@ -3,7 +3,7 @@
   "properties": {
     "isAssignedtome": {
       "type": "identifier",
-      "selector": ".floatleft",
+      "selector": "#buglist",
       "control": "exists"
     }
   },
