@@ -5,6 +5,16 @@
       "type": "identifier",
       "selector": ".floatleft",
       "control": "property.innerText"
+    },
+    "id": {
+      "type": "string",
+      "selector": ".floatleft",
+      "control": "property.innerText"
+    },
+    "category": {
+      "type": "string",
+      "selector": ".floatleft",
+      "control": "exists"
     }
   },
   "connect": []
