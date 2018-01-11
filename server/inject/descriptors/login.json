@@ -24,7 +24,7 @@
     "loginclick": {
       "type": "action",
       "control": "action.button",
-      "selector": "button"
+      "selector": ".button"
     }
   },
   "connect": [
