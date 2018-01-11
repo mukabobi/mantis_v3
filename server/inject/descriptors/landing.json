@@ -8,8 +8,7 @@
     },
     "goToAssignedToMe": {
       "type": "action",
-      "selector": "a[href=\"/mantisbt/view_all_bug_page.php\"]",
-      "control": "action.link"
+      "selector": "body"
     }
   },
   "connect": []
