@@ -17,6 +17,12 @@
             "selector": "td",
             "control": "property.innerText",
             "selectIndex": 3
+          },
+          "Category": {
+            "type": "string",
+            "selector": "td",
+            "control": "property.innerText",
+            "selectIndex": 6
           }
         }
       }
