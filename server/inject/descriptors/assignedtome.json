@@ -18,13 +18,13 @@
             "control": "property.innerText",
             "selectIndex": 3
           },
-          "Category": {
+          "category": {
             "type": "string",
             "selector": "td",
             "control": "property.innerText",
             "selectIndex": 6
           },
-          "Status": {
+          "status": {
             "type": "string",
             "selector": "td",
             "control": "property.innerText",
