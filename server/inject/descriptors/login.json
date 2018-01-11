@@ -20,6 +20,11 @@
       "type": "string",
       "selector": "div > font[color=\"red\"]",
       "control": "property.innerText"
+    },
+    "loginclick": {
+      "type": "action",
+      "selector": "font",
+      "control": "property.innerText"
     }
   },
   "connect": []
