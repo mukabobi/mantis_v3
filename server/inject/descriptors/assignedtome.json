@@ -40,12 +40,5 @@
       }
     }
   },
-  "connect": [
-    {
-      "match": [
-        "isAssignedtome"
-      ],
-      "action": "issuesList.goToDetails"
-    }
-  ]
+  "connect": []
 }
