@@ -8,8 +8,9 @@
     },
     "id": {
       "type": "string",
-      "selector": ".floatleft",
-      "control": "property.innerText"
+      "selector": "td",
+      "control": "property.innerText",
+      "selectIndex": 4
     },
     "category": {
       "type": "string",
