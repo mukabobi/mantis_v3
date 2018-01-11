@@ -15,6 +15,11 @@
       "type": "string",
       "selector": "input[name=\"password\"]",
       "control": "text"
+    },
+    "errormessage": {
+      "type": "string",
+      "selector": "div > font[color=\"red\"]",
+      "control": "property.innerText"
     }
   },
   "connect": []
