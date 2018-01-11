@@ -3,7 +3,7 @@
   "properties": {
     "isLanding": {
       "type": "identifier",
-      "selector": ".subtle",
+      "selector": ".button",
       "control": "exists",
       "selectContains": "Assigned to Me"
     },

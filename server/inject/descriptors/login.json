@@ -3,7 +3,7 @@
   "properties": {
     "isLogin": {
       "type": "identifier",
-      "selector": "body",
+      "selector": ".category",
       "control": "exists"
     },
     "username": {
