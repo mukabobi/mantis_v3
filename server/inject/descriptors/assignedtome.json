@@ -3,7 +3,7 @@
   "properties": {
     "isAssignedtome": {
       "type": "identifier",
-      "selector": "body",
+      "selector": ".floatleft",
       "control": "property.innerText"
     }
   },
