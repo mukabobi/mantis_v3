@@ -137,7 +137,10 @@
             }
           }
         },
-        "label": "Messages1"
+        "label": "Messages1",
+        "update": {
+          "type": "none"
+        }
       }
     }
   }
