@@ -1,5 +1,11 @@
 {
   "type": "object",
-  "properties": {},
+  "properties": {
+    "isLanding": {
+      "type": "identifier",
+      "selector": "font",
+      "control": "property.innerText"
+    }
+  },
   "connect": []
 }
