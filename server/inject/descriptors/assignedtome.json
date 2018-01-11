@@ -8,7 +8,7 @@
     },
     "issuesList": {
       "type": "array",
-      "selectorAll": "tbody tr[bgcolor=\"#c2dfff\"][bgcolor=\"#fcbdbd\"]",
+      "selectorAll": "tbody tr",
       "items": {
         "type": "object",
         "properties": {
