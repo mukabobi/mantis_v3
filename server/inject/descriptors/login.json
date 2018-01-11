@@ -27,5 +27,12 @@
       "selector": "button"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isLogin"
+      ],
+      "action": "loginclick"
+    }
+  ]
 }
