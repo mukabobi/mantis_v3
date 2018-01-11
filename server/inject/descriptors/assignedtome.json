@@ -23,6 +23,12 @@
             "selector": "td",
             "control": "property.innerText",
             "selectIndex": 6
+          },
+          "Status": {
+            "type": "string",
+            "selector": "td",
+            "control": "property.innerText",
+            "selectIndex": 8
           }
         }
       }
