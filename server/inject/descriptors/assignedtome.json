@@ -5,6 +5,14 @@
       "type": "identifier",
       "selector": "#buglist",
       "control": "exists"
+    },
+    "issuesList": {
+      "type": "array",
+      "selectorAll": "#buglist",
+      "items": {
+        "type": "object",
+        "properties": {}
+      }
     }
   },
   "connect": [
