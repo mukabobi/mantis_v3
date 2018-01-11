@@ -34,13 +34,6 @@
       "sourceScreenId": "app.listview.listviewcool",
       "sourceAppId": "universaltemplates",
       "model": "assignedtome"
-    },
-    {
-      "id": "messagesconfident",
-      "name": "Messages-Confident",
-      "sourceScreenId": "app.messagesinbox.messagesconfident",
-      "sourceAppId": "universaltemplates",
-      "model": "messagesconfident"
     }
   ],
   "sourceAppId": "_blank",
