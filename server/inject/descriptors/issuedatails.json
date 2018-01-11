@@ -8,5 +8,14 @@
       "selectContains": "View Issue Details"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isIssueDetails"
+      ],
+      "screens": [
+        "issuedetails"
+      ]
+    }
+  ]
 }

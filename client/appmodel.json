@@ -143,5 +143,9 @@
         }
       }
     }
+  },
+  "issuedatails": {
+    "type": "object",
+    "properties": {}
   }
 }
