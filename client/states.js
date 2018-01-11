@@ -42,5 +42,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.assignedtome', {
+        views: {
+            app: {
+                controller: 'app_assignedtome',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.assignedtome');
+                }
+            }
+        }
     });
 });
